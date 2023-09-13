@@ -12,7 +12,7 @@
 ## 🔸  About the project
 
 <p align="justify"> 
-  <strong>Ecoleta</strong> is a page developed to waste recycling centers.
+  <strong>Ecoleta</strong> is a webpage created to waste recycling centers.
 </p>
 
 <p align="center">
@@ -29,6 +29,12 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🔸 Getting started
+
+### Requirements
+- npm (^9.5.1)
+- node.js (v18.16.0)
+- [express](https://expressjs.com/pt-br/)
+- [SQLite](https://www.sqlite.org/download.html)
 
 To start using <strong>Ecoleta</strong> follow the instructions below:
 
